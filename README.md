@@ -8,3 +8,4 @@
 ### 3 * 10 ^ 6 - 4 * 10 ^ 6 —— Not Find a Friend number —— 2019.10.25 —— cost 35.2s
 ### 4 * 10 ^ 6 - 5 * 10 ^ 6 —— Not Find a Friend number —— 2019.10.26 —— cost 43.7s
 ### 5 * 10 ^ 6 - 6 * 10 ^ 6 —— Not Find a Friend number —— 2019.10.27 —— cost 42.2s
+### 6 * 10 ^ 6 - 7 * 10 ^ 6 —— Not Find a Friend number —— 2019.10.28 —— cost 57.1s
